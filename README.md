@@ -1,1 +1,4 @@
 # GitGiris
+
+YENI KOD
+YENI KOD EKLENDI
