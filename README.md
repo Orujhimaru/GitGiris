@@ -1,12 +1,9 @@
 # GitGiris
 
+FERAYI kod ekledi
 YENI KOD
-YENI KOD EKLENDI
-hdsfbshdfbhdsf
-sdfudshfbhsdfhsd
-sdfhbsdbfhsdhfds
-bafdahsdnfsd
-sdfsdfsdfsdfsd
+kod kod
+FERAYI
 
 ESRA KODLARI
 esra ueni kod
