@@ -1,5 +1,10 @@
 # GitGiris
 
+ceyda kod ekledi
+YENI KOD
+kod kod
+CEYDA
+
 FERAYI kod ekledi
 YENI KOD
 kod kod
