@@ -1,12 +1,9 @@
 # GitGiris
 
+ceyda kod ekledi
 YENI KOD
-YENI KOD EKLENDI
-hdsfbshdfbhdsf
-sdfudshfbhsdfhsd
-sdfhbsdbfhsdhfds
-bafdahsdnfsd
-sdfsdfsdfsdfsd
+kod kod
+CEYDA
 
 ESRA KODLARI
 esra ueni kod
