@@ -5,6 +5,11 @@ YENI KOD
 kod kod
 CEYDA
 
+FERAYI kod ekledi
+YENI KOD
+kod kod
+FERAYI
+
 ESRA KODLARI
 esra ueni kod
 ESRA
